@@ -1,0 +1,11 @@
+../Src/MCAL_Drivers/EXTI.c:32:6:EXTI_EnableIntLine	16	static
+../Src/MCAL_Drivers/EXTI.c:39:6:EXTI_DisableIntLine	16	static
+../Src/MCAL_Drivers/EXTI.c:46:6:EXTI_SoftwareEnableInt	16	static
+../Src/MCAL_Drivers/EXTI.c:53:6:EXTI_SetEdge	16	static
+../Src/MCAL_Drivers/EXTI.c:73:6:EXTI_SetMapping	16	static
+../Src/MCAL_Drivers/EXTI.c:146:6:EXTI_SetCallBack	16	static
+../Src/MCAL_Drivers/EXTI.c:155:6:EXTI0_IRQHandler	8	static
+../Src/MCAL_Drivers/EXTI.c:162:6:EXTI1_IRQHandler	8	static
+../Src/MCAL_Drivers/EXTI.c:168:6:EXTI2_IRQHandler	8	static
+../Src/MCAL_Drivers/EXTI.c:174:6:EXTI3_IRQHandler	8	static
+../Src/MCAL_Drivers/EXTI.c:180:6:EXTI4_IRQHandler	8	static

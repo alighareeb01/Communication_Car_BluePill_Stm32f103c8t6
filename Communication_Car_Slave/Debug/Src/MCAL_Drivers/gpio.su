@@ -1,0 +1,5 @@
+../Src/MCAL_Drivers/gpio.c:12:6:GPIO_Init	24	static
+../Src/MCAL_Drivers/gpio.c:90:9:GPIO_ReadPinValue	24	static
+../Src/MCAL_Drivers/gpio.c:107:6:GPIO_WritePinValue	16	static
+../Src/MCAL_Drivers/gpio.c:128:6:GPIO_TogglePin	16	static
+../Src/MCAL_Drivers/gpio.c:147:6:GPIO_LockPin	16	static

@@ -1,0 +1,6 @@
+../Src/CortexM3/CortexM3_SysTick.c:19:6:SysTick_Init	1
+../Src/CortexM3/CortexM3_SysTick.c:34:6:SysTick_DisableCounter	1
+../Src/CortexM3/CortexM3_SysTick.c:43:6:SysTick_WaitBlocking	2
+../Src/CortexM3/CortexM3_SysTick.c:56:6:SysTick_Asynch	1
+../Src/CortexM3/CortexM3_SysTick.c:68:6:SysTick_SetCallBack	1
+../Src/CortexM3/CortexM3_SysTick.c:72:6:SysTick_Handler	2

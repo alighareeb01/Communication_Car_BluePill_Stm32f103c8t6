@@ -1,0 +1,10 @@
+../Src/MCAL_Drivers/STM32F103C8T6_RCC.c:12:6:RCC_GPIOx_Clk_ENABLE	16	static
+../Src/MCAL_Drivers/STM32F103C8T6_RCC.c:19:6:RCC_GPIOx_Clk_DISABLE	16	static
+../Src/MCAL_Drivers/STM32F103C8T6_RCC.c:27:6:RCC_EnableHSI	4	static
+../Src/MCAL_Drivers/STM32F103C8T6_RCC.c:38:6:RCC_EnableHSE	4	static
+../Src/MCAL_Drivers/STM32F103C8T6_RCC.c:50:6:RCC_EnablePLL	16	static
+../Src/MCAL_Drivers/STM32F103C8T6_RCC.c:95:6:RCC_EnablePeriphalClk	16	static
+../Src/MCAL_Drivers/STM32F103C8T6_RCC.c:110:6:RCC_DisablePeriphalClk	16	static
+../Src/MCAL_Drivers/STM32F103C8T6_RCC.c:125:6:RCC_AHB_PreScalar	16	static
+../Src/MCAL_Drivers/STM32F103C8T6_RCC.c:129:6:RCC_APB1_PreScalar	16	static
+../Src/MCAL_Drivers/STM32F103C8T6_RCC.c:133:6:RCC_APB2_PreScalar	16	static
